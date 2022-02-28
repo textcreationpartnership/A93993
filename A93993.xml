@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Strange and wonderful relation of a clap of thunder which lately set fire to the dwelling-house of one Widow Rosingrean, living in the town of Ewloe, in the parish of Howerden in the county of Flint ... : also another relation of a sow of one John Bartington's of Broad-Lane in the same town ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93993</idno>
+            <idno type="STC">Wing S5874B</idno>
+            <idno type="STC">ESTC R42900</idno>
+            <idno type="EEBO-CITATION">38875918</idno>
+            <idno type="OCLC">ocm 38875918</idno>
+            <idno type="VID">152427</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152427)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2296:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Strange and wonderful relation of a clap of thunder which lately set fire to the dwelling-house of one Widow Rosingrean, living in the town of Ewloe, in the parish of Howerden in the county of Flint ... : also another relation of a sow of one John Bartington's of Broad-Lane in the same town ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Harris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With permission."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thunderstorms --  Flintshire (Wales)</term>
+               <term>Swine --  Abnormalities.</term>
+               <term>Animals --  Abnormalities.</term>
+               <term>Curiosities and wonders --  Early works to 1800.</term>
+               <term>Flintshire (Wales) --  Storm, 1677.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152427:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 107 -->
+            <p>A STRANGE and WONDERFUL RELATION Of a CLAP of THUNDER, WHICH, Lately ſet Fire to the Dwelling-Houſe of one Widow <hi>Roſingrean,</hi> living in the Town of <hi>Ewloe,</hi> in the Pariſh of <hi>Howerden</hi> in the County of <hi>Flint,</hi> and furiouſly burnt down the ſaid Houſe almoſt to the ground, notwithſtanding the early aſſiſtance of the whole Town, and a neighbouring Potter and his Fa<g ref="char:EOLhyphen"/>mily, who has above 20 men daily working at his own Trade.</p>
+            <p>Alſo another RELATION of a Sow of one <hi>John Bartington</hi>'s of <hi>Broad-Lane</hi> in the ſame Town and County, which lately brought forth Seven Pigs, ſix of them well form'd, and alive, but the ſeventh of a monſtrous ſhape, being both Male and Female, its Face like to that of a Child's, having ſuch a Noſe, a Mouth and two Teeth not unlike to thoſe of Infants, only it had but one Eye, and that placed in the midſt of its forehead. Theſe two Wonders are at preſent the admiration of the whole County.</p>
+            <p>With Permiſſion.</p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>W.Harris.</hi> 1677.</p>
+            <pb facs="tcp:152427:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 108 -->
+            <pb facs="tcp:152427:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 108 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152427:3"/>
+            <!-- PDF PAGE 109 -->
+            <pb n="3" facs="tcp:152427:3"/>
+            <!-- PDF PAGE 109 -->
+            <head>A Strange and Wonderful RELATION OF A Clap of THUNDER.</head>
+            <p>HOneſt Reader, I would not have thee to think I am any common Pamphleteer, who with invented Stories and hideous Lyes daily di<g ref="char:EOLhyphen"/>ſturbs the quiet of the City. I can aſſure thee, that aſſoon as I heard a true Account of theſe Re<g ref="char:EOLhyphen"/>markable Accidents, I thought my ſelf obliged by Con<g ref="char:EOLhyphen"/>ſcience, not by Intereſt, to proclaim them to the miſ<g ref="char:EOLhyphen"/>believing world: I know there are ſome men ſo impu<g ref="char:EOLhyphen"/>dent and incredulous, that notwithſtanding the daily Diſpenſations which are diſtributed amongſt us by the
+<pb n="4" facs="tcp:152427:4"/>
+               <!-- PDF PAGE 110 -->Almighty, they will not believe that he is. Nothing but their own deſtruction will convince them of a Deity, which if the Almighty ſhould be as unkind to them as they are to themſelves, their aſſurance of his Exiſtence would come too late, and they would ſadly find the double proof of his Being, both by their Deaths and Torments.</p>
+            <p>It's true I acknowledge, Temporal Felicities and Pu<g ref="char:EOLhyphen"/>niſhments fall like Sun-ſhine upon the Good and Bad; but not with the ſame divine intention: Afflictions to ſome are Bleſſings, whilſt Proſperity with all its gaudy Retinue to others are in the end the greateſt Puniſh<g ref="char:EOLhyphen"/>ments. The Widow in the Goſpel was not poor be<g ref="char:EOLhyphen"/>cauſe ſhe had but one Mite; but ſhe was rich (and that we are aſſured of by no leſs a competent Witneſs than our Saviour himſelf) in that ſhe had ſo much Charity as to give all to the Poor.</p>
+            <p>The reputation of his Teſtimony was worth ten thouſand worlds, nor was there any of her contempo<g ref="char:EOLhyphen"/>rary Saints but would have gladly relinquiſht and laughs at the Riches of <hi>Creſus,</hi> to have gained the Applauſe of ſo knowing an Umpire.</p>
+            <p>This I premiſe, becauſe I would not have any Theo<g ref="char:EOLhyphen"/>logical Critick, with a Phariſaical pride, plume and tower himſelf over the Diſpenſation which hath lately befallen this poor Widow, whoſe honeſt and godly Converſation openly expos'd with the clandeſtine or
+<pb n="5" facs="tcp:152427:4"/>
+               <!-- PDF PAGE 110 -->private trippings of many pretending Zealots, would receive from that advantageous Compariſon as much Reputation, as we can imagine the Sun would, were it to be compared with the Moon; the one would ap<g ref="char:EOLhyphen"/>pear an unblemiſht Luminary, whilſt the other by its own defects would ſeem but a motly'd and beſpotted Light.</p>
+            <p>Having thus far quitted my ſelf from any particular Reflections, I ſhall now with Expedition fall on my Re<g ref="char:EOLhyphen"/>lation.</p>
+            <p>At a Town in <hi>Flint-ſhire,</hi> known by the name of <hi>Ew<g ref="char:EOLhyphen"/>loe,</hi> in the Pariſh of <hi>Howerden,</hi> was heard (about a week ſince) an extraordinary Clap of Thunder, wherein the Heavens ſeem'd ſo far to extend their aiery Throats, as if they intended not only no allarm thoſe Inhabitants, but to amuſe the generality of the County; but how<g ref="char:EOLhyphen"/>ever though the Noiſe was general, its Effects were particular, for the amazed Townſmen looking upwards towards that part of the Horizon from which they ima<g ref="char:EOLhyphen"/>gined that extraordinary Clap to break forth, they per<g ref="char:EOLhyphen"/>ceived it immediately followed by an extraordinary Flaſh of Lightning, by reaſon of whoſe bigneſs they were perſwaded the tortured Cloud gave ſo loud an Out-Cry: This being paſt, they minded it no longer, but look<g ref="char:EOLhyphen"/>ed upon it as an uſual Production of the Elements.</p>
+            <p>But they had ſcarcely leiſure to acquaint thoſe which were not Spectators herewith, when they were by a
+<pb n="6" facs="tcp:152427:5"/>
+               <!-- PDF PAGE 111 -->Neighbourly Charity ſummoned to come to the aſſiſtance of a poor honeſt Widow, whoſe Houſe this Flaſh of Lightning it ſeems had caught hold of; The Fire kin<g ref="char:EOLhyphen"/>dled firſt in the inſide of the Houſe, and the Thunder<g ref="char:EOLhyphen"/>bolt by its extraordinary ſtrength burſt up the Rafter, and ſtill continuing its unwearied force, burſt the Loft or Garret, whil'ſt in the mean time the Flame or Vigour of its <hi>Etherial</hi> Power deſcended, and burſt open the outer<g ref="char:EOLhyphen"/>moſt Door, and ſet Fire even to the Foundation of the Building, which flamed with ſo great a greedineſs, as if it intended the whole Houſe for a Morſel. But the Wi<g ref="char:EOLhyphen"/>dow being well belov'd, had by this time ſecured both her ſelf and Family out of the reach of thoſe amazing flames; and having call'd the whole Town, but eſpeci<g ref="char:EOLhyphen"/>ally a Potter, who always keeps above 20 men at work, to her Aſſiſtance, withal the Veſſels of Water they could procure from all the Conduits in Town, they came readi<g ref="char:EOLhyphen"/>ly to the quenching of her Houſe, which by this time was all in Flames. But all their reſiſtance againſt the fire ſeem'd for ſome time in vain, till ſo many of her Neigh<g ref="char:EOLhyphen"/>bours and Friends came in, and powr'd ſo much Water on the Houſe that the Flames muſt have ſwom on their oppoſing Element, if they would have continued any longer. In ſhort, with much ado they quenched the Fire, when thoſe Flames unexpected had burnt the Houſe almoſt to the Ground, and by their potent fury gave the reſt of their Neighbours, and indeed all who hear of it, a warning not to entertain too great a ſecurity in their greateſt proſperity.</p>
+            <p>
+               <pb n="7" facs="tcp:152427:5"/>
+               <!-- PDF PAGE 111 -->
+Having delivered you in ſhort the true account of this dreadful Thunder-bolt, I muſt acquaint you with an ac<g ref="char:EOLhyphen"/>cident which lately happened in the ſame Town, as pro<g ref="char:EOLhyphen"/>digious as the former.</p>
+            <p>Which was of a Sow of one <hi>John Bartington's</hi> in <hi>Broad-Lane</hi> in the ſame Town, which Sow, about a week ſince brought forth ſeven Pigs, ſix of them had the uſual form of Creatures of that kind, but the ſeventh was moſt monſtrouſly ſhap't, its Body only retained a tincture of its Dam and Sire, but its Face much reſembled that of a Childs, it had both Noſe and Noſtrils, much like to thoſe of Infants, Lips and Mouth of the ſame kind, with only two Teeth, which might be ſeen to appear out of its unnatural Gums; the greateſt difference lay in its Fore<g ref="char:EOLhyphen"/>head, which had onely one Eye in the midſt of it: but that which was moſt ſtrange, and never as before I heard or read of in ſenſitive Creatures, it was Hermaphrodi<g ref="char:EOLhyphen"/>tical, or furniſhed with the Generative Parts both of Male and Female. I am loath to inſiſt upon the Unnatural Vices which are daily brought to open ſen<g ref="char:EOLhyphen"/>ſure; this laſt Seſſions held in the <hi>Old-Bayly</hi> has too clearly experienced them. But I hope God Almigh<g ref="char:EOLhyphen"/>ty will be pleaſed to give all the Inhabitants of theſe Kingdoms ſo much Grace as may reſtrain them not only from theſe Unnatural Vices, but alſo from all thoſe horrid and crying Offences which bring daily Judgments both on themſelves and Brethren.</p>
+            <p>Now having given a full Account of theſe two re<g ref="char:EOLhyphen"/>markable
+<pb n="8" facs="tcp:152427:6"/>
+               <!-- PDF PAGE 112 -->Stories I ſhall admoniſh the Reader once more, to be charitable in his Cenſures, and to make it his greateſt care to amend his own life, and to beg, of God daily both for his own and others, temporal and eternal felicity.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152427:6"/>
+            <!-- PDF PAGE 112 -->
+         </div>
+      </body>
+   </text>
+</TEI>
